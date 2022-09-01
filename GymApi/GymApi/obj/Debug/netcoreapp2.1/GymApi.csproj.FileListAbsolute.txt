@@ -1,0 +1,46 @@
+C:\Users\Hossein\Desktop\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.deps.json
+C:\Users\Hossein\Desktop\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.runtimeconfig.json
+C:\Users\Hossein\Desktop\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.runtimeconfig.dev.json
+C:\Users\Hossein\Desktop\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.dll
+C:\Users\Hossein\Desktop\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.pdb
+C:\Users\Hossein\Desktop\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.csprojAssemblyReference.cache
+C:\Users\Hossein\Desktop\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\Desktop\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.RazorAssemblyInfo.cache
+C:\Users\Hossein\Desktop\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.RazorAssemblyInfo.cs
+C:\Users\Hossein\Desktop\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.AssemblyInfoInputs.cache
+C:\Users\Hossein\Desktop\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.AssemblyInfo.cs
+C:\Users\Hossein\Desktop\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.RazorTargetAssemblyInfo.cache
+C:\Users\Hossein\Desktop\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.dll
+C:\Users\Hossein\Desktop\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.pdb
+G:\desktop2\GymApi\GymApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\desktop2\GymApi\GymApi\bin\Debug\netcoreapp2.1\appsettings.json
+G:\desktop2\GymApi\GymApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\desktop2\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.deps.json
+G:\desktop2\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.runtimeconfig.json
+G:\desktop2\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.runtimeconfig.dev.json
+G:\desktop2\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.dll
+G:\desktop2\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.pdb
+G:\desktop2\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.csprojAssemblyReference.cache
+G:\desktop2\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.RazorAssemblyInfo.cache
+G:\desktop2\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.RazorAssemblyInfo.cs
+G:\desktop2\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.AssemblyInfoInputs.cache
+G:\desktop2\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.AssemblyInfo.cs
+G:\desktop2\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.RazorTargetAssemblyInfo.cache
+G:\desktop2\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.dll
+G:\desktop2\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.pdb
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.deps.json
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.runtimeconfig.json
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.runtimeconfig.dev.json
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.dll
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\bin\Debug\netcoreapp2.1\GymApi.pdb
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.csprojAssemblyReference.cache
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.RazorAssemblyInfo.cache
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.RazorAssemblyInfo.cs
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.AssemblyInfoInputs.cache
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.AssemblyInfo.cs
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.RazorTargetAssemblyInfo.cache
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.dll
+C:\Users\Hossein\Desktop\jwt project\GymApi\GymApi\obj\Debug\netcoreapp2.1\GymApi.pdb
